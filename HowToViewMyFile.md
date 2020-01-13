@@ -1,3 +1,3 @@
-Just in case my Jupyter lab file does not want to load or show on github correctly, here is the direct link to a website that will allow you to view my file. 
+In the event that my Jupyter Lab file does not load correctly on GitHub, please visit this direct link to see my blocks of code executed. 
 
 https://nbviewer.jupyter.org/github/cecind123/matplotlib-challenge/blob/master/Pymaceuticals/PymaceuticalsHW.ipynb
